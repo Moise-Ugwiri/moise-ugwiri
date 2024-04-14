@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVteXZ1ZzhpMXVjNzQwODdlODJtYWo0bW91NGtjaHQ2YWRyaHUxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ru0dXtig7Xs9ERNRVr/giphy.gif"  />
+<img align="right" height="150" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif"  />
 
 ###
 
