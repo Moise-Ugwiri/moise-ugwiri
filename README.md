@@ -1,4 +1,4 @@
-<h2 align="left">Hello there! <br/> My name is Moise Ugwiri, a tech enthousiast holding a Ph.D in Engineering.</h2>
+<h2 align="left">Hello there! <br/><br/> My name is Moise Ugwiri, a tech enthousiast holding a Ph.D in Engineering.<br/></h2>
 
 ###
 
